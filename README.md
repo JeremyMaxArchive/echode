@@ -1,5 +1,3 @@
-# React Stripe Typescript Client
-
 Echode is a small library to play local audio files using NodeJS. It relies on FFPlay, so make certain that FFmpeg is installed!
 
 
