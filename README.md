@@ -1,6 +1,4 @@
-Echode is a small library to play local audio files using NodeJS. It relies on FFPlay, so make certain that FFmpeg is installed!
-
-
+Echode is a small library to play local audio files in NodeJS using FFmpeg
 
 ## Installation
 
@@ -11,7 +9,7 @@ or
 `$ yarn add echode`
 
 ### Important
-Make certain FFmpeg, specifically FFplay is available on your system. Otherwise this library will **not** work.
+Make certain FFmpeg, specifically FFplay is available on your system. Otherwise this library will **not** work!
 
 
 ## Usage
